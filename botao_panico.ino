@@ -67,7 +67,7 @@ void setup() {
 
 void loop() {
  int estado_botao = digitalRead(botao); // Lê o estado do botão
- if (estado_botao == 0) { // Se o botão esƟver pressionado (estado LOW)
+ if (estado_botao == 0) { // Se o botão estiver pressionado (estado LOW)
  Serial.println("Botão Pressionado, enviando mensagem");
  digitalWrite(led1, HIGH); // Acende o LED1 enquanto a mensagem está sendo enviada
  if (flag) { // Verifica se a flag está ativada (evita envio repetido)
