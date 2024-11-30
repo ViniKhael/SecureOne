@@ -43,6 +43,3 @@ O projeto propõe a criação de um sistema de botão de pânico utilizando o ES
 
 5. Este projeto visa oferecer uma solução simples, acessível e eficaz para emergências, utilizando tecnologias modernas e de baixo custo.
 
-## Código Atualizado
-
-[codigo]
